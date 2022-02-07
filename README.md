@@ -7,6 +7,6 @@ Microservice em Java/Spring Cloud:
     <li>Comunicação simples, Feign, Ribbon</li>
     <li>Eureka, Hystrix, Zuul</li>
     <li>Configuração centralizada</li>
-    <li>Autenticação e autorização (Esta em andamento)<a/li>
+    <li>Autenticação e autorização<a/li>
     <li>Docker(Esta em andamento)</li>
 </ul>
