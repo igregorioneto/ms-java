@@ -8,5 +8,8 @@ Microservice em Java/Spring Cloud:
     <li>Eureka, Hystrix, Zuul</li>
     <li>Configuração centralizada</li>
     <li>Autenticação e autorização<a/li>
-    <li>Docker(Esta em andamento)</li>
+    <li>Docker</li>
 </ul>
+<p>
+Existe a branch docker para outras configurações feitas no projeto.
+</p>
